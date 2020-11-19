@@ -1,0 +1,1289 @@
+@media only screen and (max-width: 767px) {
+  /*-- Default CSS --*/
+  body {
+    font-size: 15px;
+  }
+  p {
+    line-height: 1.8;
+  }
+  .ptb-100 {
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+  .pt-100 {
+    padding-top: 50px;
+  }
+  .pb-70 {
+    padding-bottom: 20px;
+  }
+  .pb-100 {
+    padding-bottom: 50px;
+  }
+  /*-- End Default CSS --*/
+  /*----- Header CSS -----*/
+  .header-top-area .header-item {
+    text-align: center;
+  }
+  .header-top-area .header-item ul li {
+    display: block;
+    margin-right: 0;
+    margin-bottom: 8px;
+  }
+  .header-top-area .header-right {
+    text-align: center;
+  }
+  .header-top-area .header-right ul li {
+    margin-bottom: 0;
+  }
+  /*----- End Header CSS -----*/
+  /*----- Navbar CSS -----*/
+  /*-- Home One --*/
+  .side-nav {
+    text-align: center;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    -webkit-box-shadow: 0px 15px 20px 0px #dddddd2e;
+            box-shadow: 0px 15px 20px 0px #dddddd2e;
+  }
+  .side-nav .modal-btn span {
+    background-color: #5d5d5d;
+  }
+  .side-nav .nav-btn {
+    font-size: 14px;
+    padding: 8px 16px;
+  }
+  .modal-body {
+    padding: 40px 20px 50px;
+  }
+  .modal-body .image-area {
+    margin-bottom: 10px;
+  }
+  .modal-body .image-area .col-lg-4 {
+    padding-right: 5px;
+    margin-right: -5px;
+    -webkit-box-flex: 0;
+        -ms-flex: 0 0 50%;
+            flex: 0 0 50%;
+    max-width: 50%;
+  }
+  .navbar-area-three .side-nav {
+    position: absolute;
+    top: 10px;
+    right: 62px;
+    padding-top: 0;
+    padding-bottom: 0;
+    -webkit-box-shadow: none;
+            box-shadow: none;
+  }
+  /*----- End Navbar CSS -----*/
+  /*----- Banner CSS -----*/
+  /*-- Home One --*/
+  .banner-area {
+    height: 100%;
+    text-align: center;
+    padding-top: 200px;
+    padding-bottom: 100px;
+  }
+  .banner-area .banner-shape img:nth-child(2) {
+    display: none;
+  }
+  .banner-area .container-fluid .col-lg-6 {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+  .banner-area .slider-item {
+    height: 300px;
+  }
+  .banner-area .slider-item img {
+    display: none;
+  }
+  .banner-area .banner-slider:hover .owl-prev {
+    left: 10px;
+  }
+  .banner-content {
+    margin-right: auto;
+    padding-right: 0;
+    margin-top: 0;
+    margin-bottom: 30px;
+  }
+  .banner-content span {
+    font-size: 15px;
+  }
+  .banner-content h1 {
+    font-size: 24px;
+    margin-bottom: 12px;
+  }
+  .banner-content p {
+    margin-bottom: 30px;
+    color: #fff;
+  }
+  .banner-content .banner-btn {
+    padding: 10px 22px;
+    margin-left: 10px;
+  }
+  .cmn-btn {
+    padding: 10px 22px;
+  }
+  /*-- Home Two --*/
+  .banner-area-two .banner-content h1 {
+    font-size: 25px;
+  }
+  .banner-area-two .banner-shape img:nth-child(3) {
+    bottom: 70px;
+  }
+  /*-- Home Three --*/
+  .banner-area-three .row {
+    margin-top: 0;
+  }
+  .banner-area-three .banner-content h1 {
+    font-size: 22px;
+  }
+  /*----- End Banner CSS -----*/
+  /*----- Feature CSS -----*/
+  /*-- Feature One --*/
+  .section-title {
+    margin-bottom: 30px;
+  }
+  .section-title .sub-title {
+    font-size: 15px;
+  }
+  .section-title h2 {
+    font-size: 25px;
+  }
+  .feature-area .section-title {
+    text-align: center;
+  }
+  .feature-area .feature-img img:nth-child(2) {
+    display: none;
+  }
+  .feature-area .feature-img .feature-inner {
+    top: 160px;
+    right: 0;
+  }
+  .feature-area .feature-content {
+    padding-left: 0;
+    text-align: center;
+  }
+  .feature-area .feature-content p {
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .feature-area .feature-content ul li {
+    display: block;
+    -webkit-box-flex: 0;
+        -ms-flex: 0 0 100%;
+            flex: 0 0 100%;
+    max-width: 100%;
+    font-size: 15px;
+    max-width: 260px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+  }
+  .feature-area .feature-content ul li i {
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+  }
+  .feature-area .feature-content .cmn-btn {
+    margin-top: 10px;
+  }
+  /*-- Home Three --*/
+  .feature-area-two {
+    padding-bottom: 50px;
+  }
+  .feature-area-two .feature-img {
+    margin-bottom: 0;
+  }
+  .feature-area-two .feature-img img:nth-child(2) {
+    display: none;
+  }
+  .feature-area-two .feature-img img:nth-child(3) {
+    display: none;
+  }
+  .feature-area-two .feature-img img:nth-child(4) {
+    position: relative;
+    bottom: 0;
+    right: 0;
+    max-width: 100%;
+    margin-bottom: 30px;
+  }
+  .feature-area-two .feature-img .feature-main img {
+    max-width: 100%;
+    margin-bottom: 30px;
+  }
+  .feature-area-two .feature-img .feature-inner {
+    top: 280px;
+    right: 0;
+  }
+  /*----- End Feature CSS -----*/
+  /*----- Process CSS -----*/
+  .process-item .icon i {
+    width: 145px;
+    height: 145px;
+    line-height: 145px;
+  }
+  .process-item h3 {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  .process-item p {
+    padding-left: 0;
+    padding-right: 0;
+  }
+  /*----- End Process CSS -----*/
+  /*----- Service CSS -----*/
+  /*-- Home One --*/
+  .service-item {
+    text-align: center;
+  }
+  .service-item .service-bottom h3 {
+    font-size: 20px;
+  }
+  .service-item .service-bottom .cmn-btn {
+    padding: 10px 17px 10px 20px;
+  }
+  .service-item .service-bottom .cmn-btn i {
+    font-size: 17px;
+  }
+  /*-- Home Two --*/
+  .service-area-two .service-item .service-bottom {
+    padding: 0 15px 20px;
+  }
+  /*-- Home Three --*/
+  .service-item-two h3 {
+    font-size: 20px;
+  }
+  .service-item-two p {
+    margin-bottom: 8px;
+  }
+  .service-item-two .service-link {
+    font-size: 14px;
+  }
+  .service-item-two .service-link i {
+    font-size: 16px;
+  }
+  /*-- Services Details --*/
+  .right-sidebar .tags {
+    padding: 25px 15px 25px;
+  }
+  .right-sidebar .category {
+    padding: 25px 15px 25px;
+  }
+  .right-sidebar .related {
+    padding: 25px 15px 25px;
+  }
+  .right-sidebar .newsletter {
+    padding: 25px 15px 25px;
+  }
+  .right-sidebar .shop {
+    padding: 25px 15px 25px;
+  }
+  .service-details-area .details-item {
+    text-align: center;
+  }
+  .service-details-area .details-item h2 {
+    font-size: 20px;
+  }
+  .service-details-area .details-item .choose ul {
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .service-details-area .details-item .choose ul li {
+    display: block;
+    -webkit-box-flex: 0;
+        -ms-flex: 0 0 100%;
+            flex: 0 0 100%;
+    max-width: 100%;
+    font-size: 15px;
+  }
+  .service-details-area .details-item .choose ul li i {
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+    font-size: 18px;
+  }
+  /*----- End Service CSS -----*/
+  /*----- Project CSS -----*/
+  /*-- Home One --*/
+  .project-area .section-title {
+    text-align: center;
+  }
+  .project-area .owl-theme .owl-nav {
+    position: relative;
+    top: unset;
+    right: 0;
+    bottom: 0;
+    right: 0;
+    margin-top: 20px;
+  }
+  .project-item {
+    text-align: center;
+  }
+  .project-item .project-bottom {
+    position: relative;
+    padding: 20px 15px 20px;
+  }
+  .project-item .project-bottom h3 {
+    font-size: 20px;
+  }
+  /*----- Project Details CSS -----*/
+  .project-details-area .details-item {
+    text-align: center;
+  }
+  .project-details-area .details-item h3 {
+    font-size: 20px;
+  }
+  /*----- End Project CSS -----*/
+  /*----- Choose CSS -----*/
+  .choose-item h3 {
+    font-size: 20px;
+  }
+  /*----- End Choose CSS -----*/
+  /*----- Virtual CSS -----*/
+  /*-- Home One --*/
+  .virtual-area .virtual-shape {
+    text-align: center;
+  }
+  .virtual-area .virtual-shape img:nth-child(2) {
+    bottom: 0;
+    left: 0;
+    right: 0;
+    max-width: 100%;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+  }
+  .virtual-area .container-fluid .col-lg-6 {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+  .virtual-area .virtual-content {
+    padding-top: 50px;
+    padding-bottom: 30px;
+    padding-right: 0;
+    margin-left: 0;
+  }
+  .virtual-area .virtual-content ul li {
+    -webkit-box-flex: 0;
+        -ms-flex: 0 0 100%;
+            flex: 0 0 100%;
+    max-width: 100%;
+    padding-left: 80px;
+    margin-right: 0;
+    margin-bottom: 30px;
+  }
+  .virtual-area .virtual-content ul li:last-child {
+    margin-bottom: 0;
+  }
+  .virtual-area .virtual-img {
+    padding-top: 75px;
+    padding-left: 0;
+    padding-bottom: 20px;
+  }
+  .virtual-area .virtual-img .counter-item h3 {
+    font-size: 40px;
+  }
+  .virtual-area .virtual-img .counter-item p {
+    font-size: 16px;
+  }
+  /*-- Home Three --*/
+  .virtual-area-two {
+    padding-bottom: 50px;
+  }
+  .virtual-area-two .virtual-img {
+    background-image: unset;
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+  .virtual-area-two .virtual-img img {
+    display: block !important;
+    padding-bottom: 0;
+  }
+  /*----- End Virtual CSS -----*/
+  /*----- Help CSS -----*/
+  /*-- Home One --*/
+  .help-area {
+    padding-top: 50px;
+  }
+  .help-area .help-content {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-top: 0;
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+  .help-area .help-content .section-title {
+    margin-bottom: 15px;
+  }
+  /*-- Home Two --*/
+  .help-area-two .section-title {
+    text-align: center;
+  }
+  .help-area-two .section-title h2 {
+    margin-left: auto;
+    margin-right: auto;
+  }
+  /*----- End Help CSS -----*/
+  /*----- Testimonial CSS -----*/
+  /*-- Home One --*/
+  .testimonial-area .testimonial-item {
+    padding: 30px 15px 25px 15px;
+  }
+  .testimonial-area .testimonial-item .quote {
+    font-size: 30px;
+  }
+  .testimonial-area .testimonial-item ul li {
+    margin-right: 20px;
+  }
+  .testimonial-area .testimonial-item ul li .test-left h4 {
+    font-size: 14px;
+  }
+  /*----- End Testimonial CSS -----*/
+  /*----- Blog CSS -----*/
+  /*-- Home One --*/
+  .blog-item .blog-bottom h3 {
+    font-size: 20px;
+    line-height: 32px;
+  }
+  /*-- Blog Details --*/
+  .blog-details-area .details-item h2 {
+    font-size: 20px;
+  }
+  .blog-details-area .details-quote blockquote {
+    padding: 35px 25px 30px 65px;
+    font-size: 16px;
+  }
+  .blog-details-area .details-quote blockquote i {
+    top: 25px;
+  }
+  .blog-details-area .details-comment ul li {
+    padding-left: 80px;
+    padding-bottom: 30px;
+    margin-bottom: 30px;
+  }
+  .blog-details-area .details-comment ul li:nth-child(2) {
+    margin-left: 0;
+  }
+  .blog-details-area .details-form {
+    padding: 30px 15px 30px;
+  }
+  /*----- End Blog CSS -----*/
+  /*----- Logo CSS -----*/
+  .logo-area .col-lg-5 {
+    -webkit-box-flex: 0;
+        -ms-flex: 0 0 50%;
+            flex: 0 0 50%;
+    max-width: 50%;
+  }
+  /*----- End Logo CSS -----*/
+  /*----- Footer CSS -----*/
+  .footer-item .footer-head h3 {
+    font-size: 20px;
+  }
+  /*----- End Footer CSS -----*/
+  /*----- Team CSS -----*/
+  .team-item:before {
+    border-left: 310px solid transparent;
+  }
+  .team-item .team-bottom {
+    padding-bottom: 10px;
+  }
+  /*----- End Team CSS -----*/
+  /*----- Shop CSS -----*/
+  /*-- Home Two --*/
+  .shop-item .shop-bottom {
+    padding: 20px 15px 20px;
+  }
+  .shop-item .shop-bottom h3 {
+    font-size: 20px;
+  }
+  .shop-item .shop-bottom span {
+    font-size: 15px;
+  }
+  /*-- Shop --*/
+  .shop-item-two .shop-top ul {
+    bottom: 70px;
+    right: 25px;
+  }
+  .shop-item-two .shop-bottom h3 {
+    font-size: 20px;
+  }
+  /*----- End Shop CSS -----*/
+  /*----- Support CSS -----*/
+  .support-area {
+    margin-top: 0;
+    padding-top: 50px;
+  }
+  .support-area .support-wrap {
+    padding: 10px;
+  }
+  .support-area .support-wrap .support-content {
+    text-align: center;
+    padding: 25px 5px 25px;
+  }
+  .support-area .support-wrap .support-content .section-title {
+    text-align: center;
+  }
+  .support-area .support-wrap .support-content .section-title h2 {
+    font-size: 20px;
+  }
+  .support-area .support-wrap .support-content .cmn-btn {
+    border: 0;
+  }
+  /*----- End Support CSS -----*/
+  /*----- Price CSS -----*/
+  .price-area {
+    padding-top: 0;
+  }
+  .price-area .price-shape {
+    display: none;
+  }
+  .price-area .section-title {
+    position: relative;
+  }
+  .price-area .section-title .sub-title {
+    color: #02334f;
+  }
+  .price-area .section-title h2 {
+    color: #02334f;
+  }
+  /*----- End Price CSS -----*/
+  /*----- Page Title CSS -----*/
+  .page-title-area {
+    height: 360px;
+  }
+  .page-title-area .page-item {
+    margin-top: 90px;
+  }
+  .page-title-area .page-item ul li {
+    font-size: 14px;
+  }
+  /*----- End Page Title CSS -----*/
+  /*----- Cart CSS -----*/
+  .cart-area {
+    text-align: center;
+  }
+  .cart-area .table-item {
+    overflow-y: scroll;
+  }
+  .cart-area .coupon .form-control {
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+  }
+  .cart-area .coupon .cmn-btn {
+    position: relative;
+    top: 2px;
+    left: 0;
+  }
+  .cart-area .total {
+    text-align: center;
+  }
+  /*----- End Cart CSS -----*/
+  /*----- FAQ CSS -----*/
+  .faq-area .accordion a {
+    padding: 15px 30px 15px 18px;
+  }
+  .faq-area .question-side h3 {
+    font-size: 20px;
+  }
+  /*----- End FAQ CSS -----*/
+  /*----- Error CSS -----*/
+  .error-item {
+    height: 500px;
+  }
+  .error-item h1 {
+    font-size: 40px;
+  }
+  .error-item p {
+    font-size: 22px;
+  }
+  .error-item a {
+    padding: 15px 35px;
+    font-size: 16px;
+    margin-top: 35px;
+  }
+  /*----- End Error CSS -----*/
+  /*----- Coming Soon CSS -----*/
+  .coming-item {
+    height: 100vh;
+    text-align: center;
+  }
+  .coming-item h1 {
+    font-size: 35px;
+  }
+  .coming-item p {
+    margin-bottom: 30px;
+  }
+  .coming-item .coming-wrap .coming-inner h3 {
+    font-size: 35px;
+  }
+  .coming-item .coming-wrap .coming-inner p {
+    font-size: 15px;
+  }
+  /*----- End Coming Soon CSS -----*/
+  /*----- Privacy Policy CSS -----*/
+  .privacy-area {
+    padding-bottom: 20px;
+  }
+  .privacy-item {
+    margin-bottom: 30px;
+  }
+  .privacy-item h2 {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  /*----- End Privacy Policy CSS -----*/
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  /*-- Default CSS --*/
+  body {
+    font-size: 15px;
+  }
+  p {
+    line-height: 1.8;
+  }
+  .ptb-100 {
+    padding-top: 70px;
+    padding-bottom: 70px;
+  }
+  .pt-100 {
+    padding-top: 70px;
+  }
+  .pb-70 {
+    padding-bottom: 40px;
+  }
+  .pb-100 {
+    padding-bottom: 70px;
+  }
+  /*-- End Default CSS --*/
+  /*----- Header CSS -----*/
+  .header-top-area .header-item {
+    text-align: center;
+  }
+  .header-top-area .header-item ul li {
+    display: block;
+    margin-right: 0;
+    margin-bottom: 8px;
+  }
+  .header-top-area .header-right {
+    text-align: center;
+  }
+  .header-top-area .header-right ul li {
+    margin-bottom: 0;
+  }
+  /*----- End Header CSS -----*/
+  /*----- Navbar CSS -----*/
+  /*-- Home One --*/
+  .side-nav {
+    padding-top: 0;
+    padding-bottom: 0;
+    position: absolute;
+    right: 80px;
+    top: 5px;
+  }
+  .side-nav .modal-btn span {
+    background-color: #fff;
+  }
+  .side-nav .nav-btn {
+    font-size: 14px;
+    padding: 8px 16px;
+  }
+  .modal-body {
+    padding: 40px 20px 50px;
+  }
+  .modal-body .image-area {
+    margin-bottom: 10px;
+  }
+  .modal-body .image-area .col-lg-4 {
+    padding-right: 5px;
+    margin-right: -5px;
+    -webkit-box-flex: 0;
+        -ms-flex: 0 0 50%;
+            flex: 0 0 50%;
+    max-width: 50%;
+  }
+  .navbar-area-three .side-nav {
+    top: 10px;
+  }
+  /*----- End Navbar CSS -----*/
+  /*----- Banner CSS -----*/
+  /*-- Home One --*/
+  .banner-area {
+    height: 100%;
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 60px;
+  }
+  .banner-area .banner-shape img:nth-child(2) {
+    display: none;
+  }
+  .banner-area .container-fluid .col-lg-6 {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+  .banner-area .slider-item {
+    height: 400px;
+  }
+  .banner-area .slider-item img {
+    display: none;
+  }
+  .banner-area .banner-slider:hover .owl-prev {
+    left: 10px;
+  }
+  .banner-content {
+    margin-right: auto;
+    padding-right: 0;
+    margin-top: 0;
+    margin-bottom: 30px;
+  }
+  .banner-content span {
+    font-size: 15px;
+  }
+  .banner-content h1 {
+    font-size: 30px;
+    margin-bottom: 12px;
+  }
+  .banner-content p {
+    margin-bottom: 30px;
+    color: #fff;
+  }
+  .banner-content .banner-btn {
+    padding: 10px 22px;
+    margin-left: 10px;
+  }
+  .cmn-btn {
+    padding: 10px 22px;
+  }
+  /*-- Home Two --*/
+  .banner-area-two .banner-content {
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .banner-area-two .banner-content h1 {
+    font-size: 35px;
+  }
+  .banner-area-two .banner-shape img:nth-child(3) {
+    bottom: 70px;
+  }
+  /*-- Home Three --*/
+  .banner-area-three .row {
+    margin-top: 0;
+  }
+  .banner-area-three .banner-content h1 {
+    font-size: 35px;
+  }
+  /*----- End Banner CSS -----*/
+  /*----- Feature CSS -----*/
+  /*-- Feature One --*/
+  .section-title {
+    margin-bottom: 30px;
+  }
+  .section-title .sub-title {
+    font-size: 15px;
+  }
+  .section-title h2 {
+    font-size: 30px;
+  }
+  .feature-area .section-title {
+    text-align: center;
+  }
+  .feature-area .feature-img img:nth-child(2) {
+    display: none;
+  }
+  .feature-area .feature-img .feature-inner {
+    top: 160px;
+    right: 0;
+  }
+  .feature-area .feature-content {
+    padding-left: 0;
+    text-align: center;
+  }
+  .feature-area .feature-content p {
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .feature-area .feature-content ul li {
+    display: block;
+    -webkit-box-flex: 0;
+        -ms-flex: 0 0 100%;
+            flex: 0 0 100%;
+    max-width: 100%;
+    font-size: 15px;
+    max-width: 260px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+  }
+  .feature-area .feature-content ul li i {
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+  }
+  .feature-area .feature-content .cmn-btn {
+    margin-top: 10px;
+  }
+  /*-- Home Three --*/
+  .feature-area-two {
+    padding-bottom: 70px;
+  }
+  .feature-area-two .feature-img {
+    margin-bottom: 0;
+  }
+  .feature-area-two .feature-img img:nth-child(2) {
+    display: none;
+  }
+  .feature-area-two .feature-img img:nth-child(3) {
+    display: none;
+  }
+  .feature-area-two .feature-img img:nth-child(4) {
+    position: relative;
+    bottom: 0;
+    right: 0;
+    max-width: 100%;
+    margin-bottom: 30px;
+    width: 100%;
+  }
+  .feature-area-two .feature-img .feature-main img {
+    max-width: 100%;
+    margin-bottom: 30px;
+    width: 100%;
+  }
+  .feature-area-two .feature-img .feature-inner {
+    top: 280px;
+    right: 0;
+  }
+  /*----- End Feature CSS -----*/
+  /*----- Process CSS -----*/
+  .process-item .icon i {
+    width: 145px;
+    height: 145px;
+    line-height: 145px;
+  }
+  .process-item h3 {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  .process-item p {
+    padding-left: 0;
+    padding-right: 0;
+  }
+  /*----- End Process CSS -----*/
+  /*----- Service CSS -----*/
+  /*-- Home One --*/
+  .service-item {
+    text-align: center;
+  }
+  .service-item .service-bottom h3 {
+    font-size: 20px;
+  }
+  .service-item .service-bottom .cmn-btn {
+    padding: 10px 17px 10px 20px;
+  }
+  .service-item .service-bottom .cmn-btn i {
+    font-size: 17px;
+  }
+  /*-- Home Two --*/
+  .service-area-two .service-item .service-bottom {
+    padding: 0 15px 20px;
+  }
+  /*-- Home Three --*/
+  .service-item-two h3 {
+    font-size: 20px;
+  }
+  .service-item-two p {
+    margin-bottom: 8px;
+  }
+  .service-item-two .service-link {
+    font-size: 14px;
+  }
+  .service-item-two .service-link i {
+    font-size: 16px;
+  }
+  /*-- Services Details --*/
+  .right-sidebar .tags {
+    padding: 25px 15px 25px;
+  }
+  .right-sidebar .category {
+    padding: 25px 15px 25px;
+  }
+  .right-sidebar .related {
+    padding: 25px 15px 25px;
+  }
+  .right-sidebar .newsletter {
+    padding: 25px 15px 25px;
+  }
+  .right-sidebar .shop {
+    padding: 25px 15px 25px;
+  }
+  .service-details-area .details-item {
+    text-align: center;
+  }
+  .service-details-area .details-item h2 {
+    font-size: 20px;
+  }
+  .service-details-area .details-item .choose ul {
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .service-details-area .details-item .choose ul li {
+    display: block;
+    -webkit-box-flex: 0;
+        -ms-flex: 0 0 100%;
+            flex: 0 0 100%;
+    max-width: 100%;
+    font-size: 15px;
+  }
+  .service-details-area .details-item .choose ul li i {
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+    font-size: 18px;
+  }
+  .right-sidebar .right-head {
+    max-width: 365px;
+  }
+  /*----- End Service CSS -----*/
+  /*----- Project CSS -----*/
+  /*-- Home One --*/
+  .project-area .section-title {
+    text-align: center;
+  }
+  .project-area .owl-theme .owl-nav {
+    position: relative;
+    top: unset;
+    right: 0;
+    bottom: 0;
+    right: 0;
+    margin-top: 20px;
+  }
+  .project-item {
+    text-align: center;
+  }
+  .project-item .project-bottom {
+    position: relative;
+    padding: 20px 15px 20px;
+  }
+  .project-item .project-bottom h3 {
+    font-size: 20px;
+  }
+  /*----- Project Details CSS -----*/
+  .project-details-area .details-item {
+    text-align: center;
+  }
+  .project-details-area .details-item h3 {
+    font-size: 20px;
+  }
+  /*----- End Project CSS -----*/
+  /*----- Choose CSS -----*/
+  .choose-item h3 {
+    font-size: 20px;
+  }
+  /*----- End Choose CSS -----*/
+  /*----- Virtual CSS -----*/
+  /*-- Home One --*/
+  .virtual-area .virtual-shape {
+    text-align: center;
+  }
+  .virtual-area .virtual-shape img:nth-child(2) {
+    bottom: 0;
+    left: 0;
+    right: 0;
+    max-width: 100%;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+  }
+  .virtual-area .container-fluid .col-lg-6 {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+  .virtual-area .virtual-content {
+    padding-top: 70px;
+    padding-bottom: 30px;
+    padding-right: 0;
+    margin-left: 0;
+  }
+  .virtual-area .virtual-content ul li {
+    -webkit-box-flex: 0;
+        -ms-flex: 0 0 100%;
+            flex: 0 0 100%;
+    max-width: 100%;
+    padding-left: 80px;
+    margin-right: 0;
+    margin-bottom: 30px;
+  }
+  .virtual-area .virtual-content ul li:last-child {
+    margin-bottom: 0;
+  }
+  .virtual-area .virtual-img {
+    padding-top: 75px;
+    padding-left: 0;
+    padding-bottom: 20px;
+  }
+  .virtual-area .virtual-img .counter-item h3 {
+    font-size: 40px;
+  }
+  .virtual-area .virtual-img .counter-item p {
+    font-size: 16px;
+  }
+  /*-- Home Three --*/
+  .virtual-area-two {
+    padding-bottom: 70px;
+  }
+  .virtual-area-two .virtual-img {
+    background-image: unset;
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+  .virtual-area-two .virtual-img img {
+    display: block !important;
+    padding-bottom: 0;
+  }
+  /*----- End Virtual CSS -----*/
+  /*----- Help CSS -----*/
+  /*-- Home One --*/
+  .help-area {
+    padding-top: 70px;
+  }
+  .help-area .help-content {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-top: 0;
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+  .help-area .help-content .section-title {
+    margin-bottom: 15px;
+  }
+  /*-- Home Two --*/
+  .help-area-two .section-title {
+    text-align: center;
+  }
+  .help-area-two .section-title h2 {
+    margin-left: auto;
+    margin-right: auto;
+  }
+  /*----- End Help CSS -----*/
+  /*----- Blog CSS -----*/
+  /*-- Home One --*/
+  .blog-item .blog-bottom h3 {
+    font-size: 20px;
+    line-height: 32px;
+  }
+  /*-- Blog Details --*/
+  .blog-details-area .details-item h2 {
+    font-size: 20px;
+  }
+  .blog-details-area .details-quote blockquote {
+    padding: 35px 25px 30px 65px;
+    font-size: 16px;
+  }
+  .blog-details-area .details-quote blockquote i {
+    top: 25px;
+  }
+  .blog-details-area .details-comment ul li {
+    padding-left: 80px;
+    padding-bottom: 30px;
+    margin-bottom: 30px;
+  }
+  .blog-details-area .details-comment ul li:nth-child(2) {
+    margin-left: 0;
+  }
+  .blog-details-area .details-form {
+    padding: 30px 15px 30px;
+  }
+  /*----- End Blog CSS -----*/
+  /*----- Logo CSS -----*/
+  .logo-area .col-lg-5 {
+    -webkit-box-flex: 0;
+        -ms-flex: 0 0 20%;
+            flex: 0 0 20%;
+    max-width: 20%;
+  }
+  /*----- End Logo CSS -----*/
+  /*----- Footer CSS -----*/
+  .footer-item .footer-head h3 {
+    font-size: 20px;
+  }
+  /*----- End Footer CSS -----*/
+  /*----- Team CSS -----*/
+  .team-item .team-bottom {
+    padding-bottom: 10px;
+  }
+  /*----- End Team CSS -----*/
+  /*----- Shop CSS -----*/
+  /*-- Home Two --*/
+  .shop-item .shop-bottom {
+    padding: 20px 15px 20px;
+  }
+  .shop-item .shop-bottom h3 {
+    font-size: 20px;
+  }
+  .shop-item .shop-bottom span {
+    font-size: 15px;
+  }
+  /*-- Shop --*/
+  .shop-item-two .shop-top ul {
+    bottom: 70px;
+    right: 25px;
+  }
+  .shop-item-two .shop-bottom h3 {
+    font-size: 20px;
+  }
+  /*----- End Shop CSS -----*/
+  /*----- Support CSS -----*/
+  .support-area {
+    margin-top: 0;
+    padding-top: 70px;
+    text-align: center;
+  }
+  .support-area .support-wrap {
+    padding: 10px;
+  }
+  .support-area .support-wrap .support-content {
+    text-align: center;
+    padding: 25px 5px 25px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .support-area .support-wrap .support-content .section-title {
+    text-align: center;
+  }
+  .support-area .support-wrap .support-content .section-title h2 {
+    font-size: 20px;
+  }
+  .support-area .support-wrap .support-content .cmn-btn {
+    border: 0;
+  }
+  /*----- End Support CSS -----*/
+  /*----- Price CSS -----*/
+  .price-area {
+    padding-top: 0;
+  }
+  .price-area .price-shape {
+    display: none;
+  }
+  .price-area .section-title {
+    position: relative;
+  }
+  .price-area .section-title .sub-title {
+    color: #02334f;
+  }
+  .price-area .section-title h2 {
+    color: #02334f;
+  }
+  /*----- End Price CSS -----*/
+  /*----- Page Title CSS -----*/
+  .page-title-area {
+    height: 330px;
+  }
+  .page-title-area .page-item {
+    margin-top: 45px;
+  }
+  .page-title-area .page-item ul li {
+    font-size: 14px;
+  }
+  /*----- End Page Title CSS -----*/
+  /*----- Cart CSS -----*/
+  .cart-area {
+    text-align: center;
+  }
+  .cart-area .table-item {
+    overflow-y: scroll;
+  }
+  .cart-area .coupon .form-control {
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+  }
+  .cart-area .coupon .cmn-btn {
+    position: relative;
+    top: 2px;
+    left: 0;
+  }
+  .cart-area .total {
+    text-align: center;
+  }
+  /*----- End Cart CSS -----*/
+  /*----- FAQ CSS -----*/
+  .faq-area .accordion a {
+    padding: 15px 30px 15px 18px;
+  }
+  .faq-area .question-side h3 {
+    font-size: 20px;
+  }
+  /*----- End FAQ CSS -----*/
+  /*----- Privacy Policy CSS -----*/
+  .privacy-area {
+    padding-bottom: 40px;
+  }
+  .privacy-item {
+    margin-bottom: 30px;
+  }
+  .privacy-item h2 {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  /*----- End Privacy Policy CSS -----*/
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+  .banner-content {
+    padding-right: 0;
+    padding-left: 20px;
+  }
+  .feature-area .feature-content ul li {
+    font-size: 15px;
+  }
+  .process-item h3 {
+    font-size: 20px;
+  }
+  .service-item .service-bottom h3 {
+    font-size: 20px;
+  }
+  .virtual-area .virtual-content {
+    padding-right: 10px;
+    padding-left: 20px;
+  }
+  .blog-item .blog-bottom h3 {
+    font-size: 18px;
+    line-height: 27px;
+  }
+}
+
+@media only screen and (max-width: 991px) {
+  .mobile-nav .logo {
+    max-width: 80px;
+  }
+  .mean-container a.meanmenu-reveal span {
+    position: relative;
+    top: 8px;
+    margin-top: -5px;
+  }
+  .mobile-nav.mean-container .mean-nav ul li a.active {
+    color: #dec904;
+  }
+  .navbar-nav {
+    height: 325px;
+    overflow-x: scroll;
+  }
+  .mean-container .mean-bar {
+    background-color: #030520;
+    padding: 0;
+  }
+}
+
+@media only screen and (min-width: 1800px) {
+  .feature-area-two {
+    padding-top: 50px;
+  }
+  .virtual-area .virtual-shape img:nth-child(2) {
+    max-width: 200px;
+  }
+}
+/*# sourceMappingURL=responsive.css.map */

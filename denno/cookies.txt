@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.dynamiclayers.net	TRUE	/	FALSE	1999999999	__cfduid	d5e2e2f61fcba7627f394a65aad9df7881600500346
+html.dynamiclayers.net	TRUE	/	FALSE	1999999999	SameSite	Lax
+
